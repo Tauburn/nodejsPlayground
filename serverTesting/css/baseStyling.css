@@ -1,0 +1,38 @@
+.alternatePage {
+    background: #857E7B;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.mainPage {
+    background: #59344F;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.title-floating-central {
+    color: #FFFFFF;
+    margin: auto;
+    width: 200px;
+    padding: 20%;
+}
+
+a:hover {
+    color: #C8F4EF
+}
+
+.link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+html {
+    background-color: #FFFFFF;
+}
+
+body {
+    display: none;
+    margin: 0px;
+}
